@@ -1,5 +1,5 @@
 local module = {}  
-
+--Prueba commit
 m = nil
 t = nil
 WRITEKEY="ZXKQ6RBIYQA6DZWG" -- Tu API Key de thingspeak.com
