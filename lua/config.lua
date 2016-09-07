@@ -5,6 +5,7 @@ module.SSID = {}
 module.SSID["MOVISTAR_7FD0"] = "lcdq9j7Ahc9TCMHcjqjj" --Carlos Segovia
 module.SSID["MOVISTAR_5A77"] = "ZU57ARGHRUQR5n4fkLNB" --Carlos Madrid
 module.SSID["Orange-0CEC"] = "lor_=kcorQypEcg41"      --Denys Mostoles
+module.SSID["movil"] = "b73dba7a8ff0"                 --Carlos movil
 
 module.HOST = "test.mosquitto.org" 
 module.PORT = 1883
